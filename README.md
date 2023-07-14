@@ -37,6 +37,8 @@ set arp.spoof.targets [targets ip, targets ip]
 arp.spoof on
 
 ```
-this is how it looks like
+# Screenshot
+
+
 ![Screenshot from 2023-07-14 22-11-26](https://github.com/eyeblech/man_in_the_middle/assets/78268197/197fb233-70b1-4c24-b57d-987cc62e28fe)
 
